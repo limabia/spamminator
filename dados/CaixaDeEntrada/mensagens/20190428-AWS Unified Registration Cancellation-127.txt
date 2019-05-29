@@ -1,0 +1,21 @@
+Assunto: AWS Unified Registration Cancellation
+De: Amazon Web Services <no-reply-aws@amazon.com>
+Data: 28/04/2019 03:10
+Para: "ricardofernandes.8699@usp.br" <ricardofernandes.8699@usp.br>
+
+Greetings from Amazon Web Services,
+
+This e-mail confirms that you have closed your Amazon Web Services account.
+
+If you closed your AWS account after the first day of any month you may still receive another bill. In addition, if you have any active subscriptions (such as a Reserved Instance for which you have elected to pay in monthly installments), then even after your account is closed you may continue to be billed for the subscription until the subscription expires or is sold in accordance with the terms governing the subscription. Please see the Billing & Cost Management page at https://console.aws.amazon.com/billing/home for details about any remaining charges applicable to the services you have used. 
+
+If you feel you have received this e-mail in error or wish to reopen your AWS account, please contact AWS Customer Service via the Support Center at https://aws.amazon.com/support. You may only reopen your AWS account within 90 days after you closed your account. After 90 days, you will not be able to reopen your account, and any remaining content in your closed account will be deleted.
+
+For more details, please visit the Amazon Web Services Account Closure page at https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/close-account.html  
+
+Sincerely, 
+
+Amazon Web Services
+
+Amazon Web Services, Inc. is a subsidiary of Amazon.com, Inc. Amazon.com is a registered trademark of Amazon.com, Inc. This message was produced and Distributed by Amazon Web Services Inc., 410 Terry Ave. North, Seattle, WA 98109-5210
+

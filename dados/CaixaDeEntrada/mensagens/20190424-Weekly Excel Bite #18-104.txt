@@ -1,0 +1,34 @@
+Assunto: Weekly Excel Bite #18
+De: "Udemy Instructor: Paula Guilfoyle" <no-reply@e.udemymail.com>
+Data: 24/04/2019 08:31
+Para: ricardofernandes.8699@usp.br
+
+Udemy
+
+Novo Anúncio Educacional
+	
+
+Olá, Ricardo Augusto Fernandes. Um anúncio foi feito por Paula, instrutor de Power BI - The Ultimate Orientation.
+
+Hi,
+
+How did you enjoy your Easter Break? Are you ready for more Excel, PowerBI and DAX resources?
+
+Over the last few weeks, I have been reading your emails with requests for topics to be covered and I see that many of you are interested in learning more about Excel Power Tools, Power Pivot, Power Query, Power View, and DAX.
+
+These are amazing tools and I am currently working on a publishing schedule that I hope will help all of you packed full of awesome power tool tricks.
+
+This week I am going to focus on a question sent to me by Jeff. Jeff asked if I had any tips for quickly analyzing categorical data in Excel. Categorical data is mostly text-based and many get confused on how to analyze or summarize text data in Excel. In this weeks article and video, you will learn how to use Pivot tables to quickly analyze and summarize categorical data.
+
+Learn and Earn activity is also back. Check out the post to find out more.
+
+Tips for Analyzing Categorical Data in Excel
+
+Feel free to leave you feedback and comments on the learning resource
+
+Talk again soon
+
+Paula
+Ver comunicado
+
+Entregue por Udemy 600 Harrison Street, 3rd Floor, San Francisco, CA 94107. Você poderá cancelar a assinatura se preferir não receber mensagens como estas. Se algo não estiver certo,denuncie abuso.
