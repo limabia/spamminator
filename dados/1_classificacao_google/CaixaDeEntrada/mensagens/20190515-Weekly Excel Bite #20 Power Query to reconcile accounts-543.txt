@@ -1,0 +1,37 @@
+Assunto: Weekly Excel Bite #20 Power Query to reconcile accounts
+De: "Udemy Instructor: Paula Guilfoyle" <no-reply@e.udemymail.com>
+Data: 15/05/2019 09:48
+Para: ricardofernandes.8699@usp.br
+
+Udemy
+
+Novo Anúncio Educacional
+	
+
+Olá, Ricardo Augusto Fernandes. Um anúncio foi feito por Paula, instrutor de Power BI - The Ultimate Orientation.
+
+The solution is out to last weeks learn and earn activity. If you missed the post we looked at basic to advanced uses of SUMPRODUCT in Excel. If you missed the article and activity, there is still time to catch up and you can still earn rewards for posting your solution.
+
+The Secret Power of SUMPRODUCT in Excel
+
+This week we have a Power Query Trick. I have been asked to cover a little more on Excel Power Tools and Power BI and I am hoping today's resource can be used to save you time over and over again.
+
+In this weeks article and video, you will learn how to reconcile accounts using Power Query. The model we create can then be re-used over and over to carry out your reconciliations saving you a massive amount of time.
+
+At the end of the article, you will find the weekly Learn and Earn activity and a file to download so you can carry out the activity. This is a real time saver folk's so if you are an accountant or work in accounts then this is for you. If you don't work in accounts, I would still recommend you have read of the article and watch the video as it may give you ideas on how you can use Power Query more.
+
+How to Reconcile Accounts using Power Query
+
+I know many of you now have steem accounts and can partake in the activities. I do hope to see you all engage a little more so I can start to reward you with steem tokens.  If you don't have a steem account you can still do the activity and access the resources.  To find out more about our learn and earn activities and getting a steem account, take a read of this post
+
+https://theexcelclub.com/learn-and-earn-steem-activities/
+
+That's it till next week, I hope you are having the same sunshine I am having.
+
+Kind Regards
+
+Paula
+The Excel Club
+Ver comunicado
+
+Entregue por Udemy 600 Harrison Street, 3rd Floor, San Francisco, CA 94107. Você poderá cancelar a assinatura se preferir não receber mensagens como estas. Se algo não estiver certo,denuncie abuso.

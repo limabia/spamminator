@@ -1,0 +1,25 @@
+Assunto: ACH2016-194-2019: Redes Profundas
+De: "Norton Trevisan Roman (via e-Disciplinas)" <no-reply@edisciplinas.usp.br>
+Data: 21/05/2019 08:46
+Para: "Ricardo Augusto Fernandes Junior" <rafernandesjr@usp.br>
+Reply-to: "=?utf-8?B?TsOjbyByZXNwb25kYSBhIGVzdGEgbWVuc2FnZW0u?="
+
+ACH2016-194-2019 » Fóruns » Avisos » Redes Profundas
+Imagem de Norton Trevisan Roman 	
+Redes Profundas
+por Norton Trevisan Roman - terça, 21 mai 2019, 08:14
+  	
+
+Pessoal, fiz alterações na aula 20. Além disso, o Victor enviou alguns links BEM interessantes:
+
+https://playground.tensorflow.org 
+
+    Um simulador, aparentemente apenas de feedforward profundas, mas que permite você ver a saída de cada neurônio, mudar parâmetros etc. Muito bom para quem quer visualizar a coisa.
+
+http://scott.fortmann-roe.com/docs/BiasVariance.html
+
+Esse trataremos mais tarde no curso. Mas fica o crédito.
+
+N
+Veja esta mensagem em seu contexto
+Alterar suas opções de resumo

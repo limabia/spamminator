@@ -1,0 +1,29 @@
+Assunto: ATA COMPETEC
+De: Christian Keith Kobashikawa <chrisk11@usp.br>
+Data: 11/05/2019 13:19
+Para: PET SI EACH USP <pet-si-each-usp@googlegroups.com>, Caio Massaharu Damaceno Fumiya <caiofumiya@usp.br>, Andre Faleiros Alves Paschoal <andre.faleiros.paschoal@usp.br>
+
+Turma 1-2
+Foi percebido que os alunos realmente tinham bastante dificuldade com vetores, mas que esta sessão ajudou bastante para a compreensão desse assunto. A resolução da parte 4 da lista foi passada para a sala. 
+
+Turma 3-4
+Foi passada a correção da parte 4 da lista de exercícios. Notou-se dificuldades por parte dos alunos em manipulação dos valores dos vetores utilizando-se os índices do for(). 
+
+
+Foi discutido que, tendo as seguintes classificações:
+
+A) Pessoas que sabem bem do conteúdo
+B) Pessoas que não sabem bem do conteúdo
+
+Se juntado A com B a tendência observada é que As se isolem em relação aos Bs, então é melhor manter um grupo homogêneo -> A com A , B com B.
+
+Em ambas as salas não deu tempo de passar os desafios PG.java e Fila.java
+
+Foi levado também de anular uma falta para cada sessão extra que um aluno com falta participar.
+
+-- 
+Você recebeu essa mensagem porque está inscrito no grupo "PET SI EACH USP" dos Grupos do Google.
+Para cancelar inscrição nesse grupo e parar de receber e-mails dele, envie um e-mail para pet-si-each-usp+unsubscribe@googlegroups.com.
+Para postar nesse grupo, envie um e-mail para pet-si-each-usp@googlegroups.com.
+Para ver essa discussão na Web, acesse https://groups.google.com/d/msgid/pet-si-each-usp/CA%2BidfxEYcLHSO5Gux1PyfMBUs9%3DxxBWKLc%2Bi5aFS%2BueT%2B_FkpQ%40mail.gmail.com.
+Para mais opções, acesse https://groups.google.com/d/optout.

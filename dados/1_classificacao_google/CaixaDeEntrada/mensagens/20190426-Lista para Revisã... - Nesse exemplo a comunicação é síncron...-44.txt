@@ -1,0 +1,33 @@
+Assunto: Lista para Revisã... - Nesse exemplo a comunicação é síncron...
+De: "Eduardo Kenji Matsuda (Documentos Google)" <comments-noreply@docs.google.com>
+Data: 26/04/2019 15:10
+Para: rafernandesjr@usp.br
+Reply-to: Responder
+
+Eduardo Kenji Matsuda respondeu a um comentário em Lista para Revisão - P1 DSID
+Lucas Leal Caparelli
+	
+Lucas Leal Caparelli
+Kenji: uma requisição web, como uma pesquisa no Google. O servidor pode estar fora ou não estar acessível (você está sem internet) mas é possível mandar a requisição (pesquisa) porém ela obviamente não será respondida com o devido resultado e, por mais que você volte a ter Internet ou que o servidor volte a responder, é necessário enviar outra requisição (um F5 no browser por exemplo), pois sua requisição não foi persistida (transiente).
+
+Nesse exemplo a comunicação é síncrona, realizada apenas se o servidor está de pé e escutando requisições na porta para a qual o cliente envia a solicitação. Um exemplo melhor talvez seria um bus de eventos sem unidade de storage (ou seja, a requisição é mantida em memória no bus portanto não é persistida, ao contrário de um message broker)
+Eduardo Kenji Matsuda
+	
+Eduardo Kenji Matsuda
+
+Justo! O exemplo é transiente apenas, porém seu exemplo eu tbm não acho que seja o ideal, dado que esse bus de eventos citado não está sendo dito como ela foi alimentada. Os eventos podem ter vindo de uma serie de ações oriundas de uma comunicação tanto síncrona como assíncrona, dado que assim como no meu exemplo, para caracterizar uma comunicação síncrona os dois lados devem estar operantes e não é porque um lado consegue enviar a requisição que torna isso síncrono.
+
+Sua comparação com o message broker é válido se referindo a ser persistente ou não, mas não em ser síncrono ou assíncrono, pois mesmo um uso do MOM não implica que a comunicação é síncrona ou não. Claro que, isso só é possível justamente por ela ser persistente e dá a possibilidade de ser assíncrono, mas não é uma regra.
+Abrir
+		
+		
+		
+	
+	
+		
+		
+		
+Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA
+
+Você recebeu este e-mail porque se inscreveu em todas as discussões de Lista para Revisão - P1 DSID.Alterar o que o Documentos Google envia para você.Você pode responder a este e-mail para responder à discussão.
+	

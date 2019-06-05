@@ -1,0 +1,40 @@
+Assunto: Ata COMPETEC 27/04
+De: Christian Keith Kobashikawa <chrisk11@usp.br>
+Data: 27/04/2019 14:06
+Para: PET SI EACH USP <pet-si-each-usp@googlegroups.com>, Caio Massaharu Damaceno Fumiya <caiofumiya@usp.br>, Andre Faleiros Alves Paschoal <andre.faleiros.paschoal@usp.br>
+
+ATA COMPETEC (27/04)
+
+TURMA 1 e TURMA 2  
+Devido a falta de alunos na turma 2, uniu-se a turma 1 e a turma 2. Foi dito que a quantidade de alunos tornou a dinâmica um pouco irregular. Os alunos tiveram dificuldade em receber a entrada do desafio Palindromo. Houveram muitas ideias para a resolução deste desafio, de forma bem heterogênea entre os alunos. 
+
+
+TURMA 3
+Houve um aluno que não estava registrado em nenhuma das listas de presença e compareceu na turma. Foi dito que a base sobre o assunto de arranjo não esta bem fixada no pensamento dos alunos. Foi resolvido apenas o desafio dos Palindromos. Os alunos tiveram dificuldade em preencher os espaços do arranjo com um valor e realizar comparações iterando dentro do laço. 
+
+
+TURMA 4 
+Os alunos resolveram o desafio Palindromo e Matriz Transposta. Houve a falta de folhas do primeiro desafio, o que ocasionou em agrupar os alunos na parte da frente da sala. Isso aumentou a interação entre os alunos, mas ainda sim, alguns alunos não quiseram participar da dinâmica. Pelos feedbacks, os alunos disseram ter bastante dificuldade ainda nos desafios, apesar de terem resolvido. 
+
+
+
+Foi discutido que o nivel dos desafios estavam altos, e achou-se melhor diminuir a dificuldade. 
+
+Foi proposto a reservar uma sessão para ensinar os alunos sobre o teste de mesa de um código. Seria dado um código exemplo, e os alunos fariam o teste de mesa desse código. Além disso, também foi dito que seria bom adiar a aula de String e transformá-lo em uma aula de resolução de exercícios
+
+
+Para a proxima sessão será feito a aula de exercicios, adiando a aula de String. Será dada uma pequena revisão e após isso uma lista de exercícios para os alunos. Os bolsistas André e Caio farão essa lista de exercícios e enviará no grupo do telegram para revisão dos petianos para quarta feira. Foi dito que seria bom colocar os alunos em grupos para a resolução da lista, dando uma certa quantia de tempo para eles resolverem. Foi dado a ideia de realizar esta sessão em um laboratório de informática na EACH. O bolsista André enviará email ao Eler solicitando o pedido de um laboratório para a dinâmica dos exercícios. Os exercícios serão divididos em: Básico, Intermediário e Avançado
+
+A senha de acesso ao URI Academic foi alterada. A nova senha é: Compet210@
+
+Foi proposto ter mais 2 sábados extendendo as aulas do COMPETEC, sendo estas aulas sobre desafios em foco e de revisão. É preciso realiar a nova alocação de petianos para esses sábados. 
+
+
+Foi dito que é preciso imprimir os desafios antes do sábado, durante a semana. 
+
+-- 
+Você recebeu essa mensagem porque está inscrito no grupo "PET SI EACH USP" dos Grupos do Google.
+Para cancelar inscrição nesse grupo e parar de receber e-mails dele, envie um e-mail para pet-si-each-usp+unsubscribe@googlegroups.com.
+Para postar nesse grupo, envie um e-mail para pet-si-each-usp@googlegroups.com.
+Para ver essa discussão na Web, acesse https://groups.google.com/d/msgid/pet-si-each-usp/CA%2BidfxHe8mDhbwzwsE%2BO6FTwDGFc9a64Rqnusyv_eBo7CgeZtg%40mail.gmail.com.
+Para mais opções, acesse https://groups.google.com/d/optout.

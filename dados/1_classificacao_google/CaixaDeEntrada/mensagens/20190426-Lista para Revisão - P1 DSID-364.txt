@@ -1,0 +1,83 @@
+Assunto: Lista para Revisão - P1 DSID
+De: Documentos Google <comments-noreply@docs.google.com>
+Data: 26/04/2019 17:23
+Para: rafernandesjr@usp.br
+Reply-to: Sem resposta
+
+Hyago Quevedo Cotta e Marcelo Torres do Ó adicionaram comentários a Lista para Revisão - P1 DSID
+Novo
+3 comentários
+		
+		
+		
+	
+	
+		
+		
+		
+Novo
+Comentários
+Marcelo Torres do Ó
+	
+Marcelo Torres do Ó
+sincronização dos relógios
+
+Não seria "sincronização da comunicação entre os nós"?
+Waldir Merotti
+	
+Waldir Merotti
+
+Marcada como resolvida
+Waldir Merotti
+	
+Waldir Merotti
+
+Reaberta
+No caso, seria dos relógios que estão em cada nó...
+Marcelo Torres do Ó
+	
+Marcelo Torres do Ó
+
+Mesmo assim, mesmo usando relógios atômicos a comunicação ainda sim seria um problema porq vc n sabe quanto tempo a mensagem vai demorar pra chegar. Dê uma olhada na resposta da Julia
+Marcelo Torres do Ó
+	
+Marcelo Torres do Ó
+
+resposta da Julia para a questão 4
+ResponderAbrir
+Gabriel Henrique da Silva Pinto
+	
+Gabriel Henrique da Silva Pinto
+por exemplo.
+
+Acho legal acrescentar aqui que alguns sistemas precisam de mais confiabilidade, tipo sistemas de usinas, que dependem de real time, tipo a coisa tem que acontecer em menos de 20ms, nesses sistemas coisa tão assincronas podem ser um problema
+Abel Rocha Espinosa
+	
+Abel Rocha Espinosa
+
+Top!
+Marcelo Torres do Ó
+	
+Marcelo Torres do Ó
+
+hmmm, bem lembrado
+ResponderAbrir
+Hyago Quevedo Cotta
+	
+Hyago Quevedo Cotta
+.
+
+Comunicação assíncrona se encaixa como uma opção para contornar o problema dado?
+ResponderAbrir
+		
+		
+		
+	
+	
+		
+		
+		
+Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA
+
+Você recebeu este e-mail porque participou das sequências de discussão atualizadas.Alterar o que o Documentos Google envia para você.Não é possível responder a este e-mail.
+	

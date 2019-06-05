@@ -1,0 +1,194 @@
+Assunto: [alunos-si] Fwd: Mais uma divulgação do WTICG do SBSeg 2019 na sua instituição (1 mês para a data limite de submissão de artigos)
+De: Daniel de Angelis Cordeiro <daniel.cordeiro@usp.br>
+Data: 02/05/2019 11:21
+Para: alunos-si <alunos-si@listas.usp.br>
+
+Caros alunos,
+
+Se você fez Iniciação Científica e trabalhou em algum tema relacionado
+à Segurança de Informação, considere divulgar seu trabalho no evento
+abaixo (que, neste ano, será aqui pertinho). :-)
+
+Abraços,
+Daniel
+
+---------- Forwarded message ---------
+De: Daniel Macêdo Batista <batista@ime.usp.br>
+Date: qui, 2 de mai de 2019 às 11:16
+Subject: Mais uma divulgação do WTICG do SBSeg 2019 na sua instituição
+(1 mês para a data limite de submissão de artigos)
+To: Daniel Macêdo Batista <batista@ime.usp.br>
+
+
+Prezadas coordenadoras e prezados coordenadores de cursos de computação,
+
+Como falta 1 mês para a data limite de submissão de artigos para o
+Workshop de Trabalhos de Iniciação Científica e de Graduação
+(WTICG) do SBSeg, eu agradeceria se vocês pudessem divulgar a chamada
+mais uma vez entre os alunos da sua instituição.
+
+Vale a pena destacar que os estudantes de graduação ou
+recém-graduados que tiverem seus trabalhos aceitos no WTICG terão
+suas inscrições no SBSeg subsidiadas pelo CESeg Student Grants, um
+programa da Comissão Especial em Segurança da Informação e de
+Sistemas Computacionais (CESeg) da Sociedade Brasileira de
+Computação que tem por objetivo estimular a participação de
+estudantes no WTICG.
+
+Obrigado mais uma vez,
+--
+Daniel Macêdo Batista
+Professor Associado do IME-USP
+Co-Coordenador Geral do SBSeg 2019
+
+#########################################################################################################################
+
+SBSeg 2019 - XIX Simpósio Brasileiro de Segurança da Informação e de
+Sistemas Computacionais
+WTICG - XIII Workshop de Trabalhos de Iniciação Científica e de Graduação
+
+2 a 5 de Setembro de 2019
+Local: Universidade de São Paulo (USP), São Paulo-SP
+
+https://sbseg2019.ime.usp.br/cfp-wticg.html
+
+--------------------------------------------------
+
+4o. CFP - Chamada de Trabalhos - WTICG do SBSeg 2019
+
+*** Falta 1 mês para a data limite de submissão de artigos! ***
+
+*** Notem que neste ano o WTICG, juntamente com o SBSeg, acontece mais
+cedo do que nos anos anteriores e por isso os prazos de submissão
+também são mais cedo. Programem-se! ***
+
+https://sbseg2019.ime.usp.br/cfp-wticg.html
+
+--------------------------------------------------
+
++++ Tópicos de Interesse
+
+Anonimização e privacidade
+Auditoria e análise de riscos em sistemas computacionais
+Caracterização e medição de segurança
+Controle de acesso, autenticação, biometria, confiança e gestão de identidades
+Criptografia e criptoanálise: algoritmos, protocolos e aplicações
+Criptomoedas e mecanismos de consenso distribuído
+Forense computacional e criminalística
+Hardware seguro
+Intrusão: detecção, prevenção e resposta
+Normatização e políticas de segurança
+Proteção de propriedade intelectual e DRM
+Segurança de aplicações
+Segurança de sistemas operacionais
+Segurança em ambientes de computação em nuvem
+Segurança em Internet das Coisas, sensores e sistemas embarcados
+Segurança em redes de computadores
+Segurança em redes móveis e redes veiculares
+Segurança web
+Software seguro
+Votação eletrônica
+
+--------------------------------------------------
+
++++ Instruções aos Autores
+
+Podem submeter trabalhos ao WTICG 2019, estudantes de graduação
+regularmente matriculados, ou ainda, recém-graduados que tenham
+concluído o curso a partir de 1 de janeiro de 2019. A situação de
+estudante de graduação ou recém-graduado deve ser comprovada com
+documentação apropriada, que deverá ser enviada juntamente com a
+submissão do trabalho. Os autores estão convidados a submeter
+trabalhos de Iniciação Científica (IC), implementações de software e
+projetos independentes, concluídos nos anos de 2018 e 2019 ou em fase
+de conclusão, que foram desenvolvidos durante a graduação; e trabalhos
+de conclusão de curso (TCC) concluídos ou em fase de conclusão.
+Trabalhos concluídos devem ser submetidos na categoria “Trabalho
+completo”, enquanto que trabalhos em andamento devem ser submetidos na
+categoria “Pôsteres”. Estudantes de graduação ou recém-graduados
+que tiverem seus trabalhos aceitos no WTICG terão suas inscrições no
+SBSeg subsidiadas pelo CESeg Student Grants, um programa da Comissão
+Especial em Segurança da Informação e de Sistemas Computacionais
+(CESeg) da Sociedade Brasileira de Computação que tem por objetivo
+estimular a participação de estudantes no WTICG.
+
+Os artigos podem ser escritos em português ou inglês; sua formatação
+deve seguir o modelo da SBC para publicação de artigos, disponível no
+portal da SBC (
+http://www.sbc.org.br/documentos-da-sbc/category/169-templates-para-artigos-e-capitulos-de-livros
+). Trabalhos completos podem ter no máximo 10 páginas. Submissões na
+categoria Pôster devem ter no máximo 4 páginas. A submissão de artigos
+será feita exclusivamente em formato PDF, por meio do sistema JEMS da
+SBC ( https://submissoes.sbc.org.br/home.cgi?c=3297 ).
+
+Os seguintes critérios serão observados no julgamento dos trabalhos:
+originalidade, relevância, apresentação, resultados e qualidade
+técnica. Os trabalhos selecionados pelo comitê de avaliação serão
+publicados (em meio digital) desde que pelo menos um dos autores
+esteja inscrito no evento e apresente o trabalho.
+
+Uma comissão de avaliação escolherá os melhores dentre os trabalhos
+completos e dentre os pôsteres apresentados no evento por estudantes
+ou recém-graduados.
+
+--------------------------------------------------
+
++++ Datas Importantes
+
+Prazo de registro e submissão de artigos: 02/06/2019
+Notificação do resultado: 30/06/2019
+Prazo de inscrição e de submissão da versão final de artigos: 05/08/2019
+
+--------------------------------------------------
+
++++ Comitê de Programa
+
+Altair Santin (PUCPR)
+Arlindo L. Marcon Jr. (IFPR)
+Carla Merkle Westphall (UFSC)
+Carlos Eduardo da Silva (Chair) (UFRN)
+Cíntia Borges Margi (Chair) (EP-USP)
+Diogo Mattos (UFF)
+Edelberto Silva (UFJF)
+Edna Canedo (UnB)
+Eduardo Feitosa (UFAM)
+Eduardo Souto (UFAM)
+Emerson Ribeiro de Mello (IFSC)
+Ewerton Rodrigues de Andrade (IFRO)
+Igor Moraes (UFF)
+Ivanilson Junior (IFRN)
+Juliano Kazienko (UFSM)
+Juliano Naves (IFRO)
+Leonardo B. Oliveira (UFMG)
+Luiz Fernando Rust da Costa Carmo (Inmetro)
+Márjory da Costa Abreu (UFRN)
+Michelle Wangham (Univali)
+Paulo André da Silva Gonçalves (UFPE)
+Rafael Obelheiro (UDESC)
+Ricardo Dahab (Unicamp)
+Rossana Andrade (UFC)
+Silvio Sampaio (UFRN)
+William de Souza (University of London)
+
+--------------------------------------------------
+
++++ Comitê de Organização
+
+Coordenação do XIII WTICG:
+Carlos Eduardo da Silva (IMD/UFRN)
+Cíntia Borges Margi (EP-USP)
+
+Coordenação Geral do SBSeg 2019:
+Routo Terada (IME-USP)
+Daniel Macêdo Batista (IME-USP)
+
+--------------------------------------------------
+
++++ Contato
+
+sbseg2019@ime.usp.br
+https://sbseg2019.ime.usp.br/
+
+
+-- Prof. Dr. Daniel Cordeiro Escola de Artes, Ciências e Humanidades - EACH|USP Universidade de São Paulo http://www.each.usp.br/dc/ _______________________________________________ alunos-si mailing list alunos-si@listas.usp.br https://listas.usp.br/mailman/listinfo/alunos-si
+

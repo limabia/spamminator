@@ -1,0 +1,47 @@
+Assunto: Install Windows on External USB, Backup & Restore System to Different PC, and More.
+De: EaseUS <knowledgebase@easeus.com>
+Data: 08/05/2019 09:28
+Para: ricardofernandes.8699@usp.br
+
+View this email in your browser
+Please add knowledgebase@easeus.com to your address book to ensure that you can receive all EaseUS mails. If you do not wish to receive any more emails, you can unsubscribe here.
+	May 8th, 2019
+Hi there, this is Abby with EaseUS.
+Today, I’m happy to invite you to try our professional backup software - EaseUS Todo Backup and introduce how to use cloning and mirror imaging to make a duplicate of your system, capturing all of your apps & data for remote work, system recovery, system transfer, and more. Here we go!
+Todo Backup For Home & Business
+Reliable backup software for PCs and Servers to protect
+personal and crucial business data.
+		
+Todo Backup Key Features
+Flexible Hard Drive & System Cloning
+• Create a portable Windows USB Drive for remote work
+• Upgrade to a larger HDD or faster SSD to boost PC performance
+Automatic Backup & Quick Recovery
+• Automatically back up PC to protect system and data
+• Restore system to dissimilar hardware without boot issue
+Realize Backup and Restore without OS
+• Create an emergency bootable disk
+Get It Now
+Useful Tips and Guides
+How to Install Windows on an External USB Drive
+Install Windows OS onto a USB drive then boot Windows from that drive. Keep your operating system in your pocket at all times. This way you can use your personalized system, with all of your programs and user settings, on any computer for remote work, troubleshooting and more.
+Learn More
+How to Restore System to Dissimilar Hardware
+This article walks you through how to restore Windows system to dissimilar hardware without boot issue. All you need is EaseUS Todo Backup. Try it to prevent motherboard failure, migrate OS, repair a failed system on different PC, set up multiple PCs with the same configurations, and more.
+Learn More
+Be Prepared - 6 Signs Indicating Hard Drive Failure
+Nowadays, many people store personal files on their computer hard drive. However, every hard drive has their own lifespan and can be failed. And data can be lost if you come across hard drive failure. This article will show you a list of signs of hard drive failure and tell what precautions you should take before hard drive failure.
+Learn More
+Todo Backup For Home & Business
+MAKE SURE YOU ALWAYS HAVE DEPENDABLE COPIES
+OF YOUR SYSTEM AND DATA!
+Any questions or ideas on how to make this digest better for you, please e-mail me at: abby@easeus.com.
+
+We Guarantee Your Privacy.
+EaseUS will never give, lease, sell or otherwise disclose your personal information. Any information you give to EaseUS will be kept safely ( Privacy Policy).
+
+Copyright © 2004 - 2019 EaseUS. ALL RIGHTS RESERVED.
+This message was sent to ricardofernandes.8699@usp.br by knowledgebase@easeus.com
+12 F, Building 1, Idealism Center, No. 38 Tian Yi Street, Hi-tech Zone, Chengdu, Sichuan Province, 610041
+
+Unsubscribe from all mailings Unsubscribe | Manage Subscription | Forward Email | Report Abuse

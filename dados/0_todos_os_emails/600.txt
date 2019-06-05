@@ -1,0 +1,18 @@
+Assunto: [NANOEACH] Redefinição de senha
+De: WordPress <wordpress@each.usp.br>
+Data: 16/05/2019 12:51
+Para: rafernandesjr@usp.br
+
+Alguém solicitou a alteração de senha para a seguinte conta:
+
+Nome do site: NANOEACH
+
+Nome de usuário: ricardofernandes
+
+Se isso foi um erro, apenas ignore este e-mail e nada acontecerá.
+
+Para redefinir sua senha, visite o seguinte endereço:
+
+<http://www.each.usp.br/nanoeach/wp-login.php?action=rp&key=8ktjVbdYVNQV177HPnoK&login=ricardofernandes>
+
+
