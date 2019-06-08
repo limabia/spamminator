@@ -1,0 +1,25 @@
+Assunto: [alunos-si] Problemas com as portas USB dos micros do Lab. 6
+De: Daniel de Angelis Cordeiro <daniel.cordeiro@usp.br>
+Data: 03/05/2019 11:16
+Para: alunos-si <alunos-si@listas.usp.br>
+
+Olá pessoal,
+
+A Seção Técnica de Informática nos alertou sobre uma série de micros
+do laboratório didático 6 que estão aparecendo com as placas-mãe
+queimadas.
+
+Eles suspeitam que os micros estão queimando por conta de
+curtos-circuitos causados por periféricos ligados às portas USB que
+requerem mais energia (HDs externos, por exemplo).
+
+Eles estão investigando as causas desses curtos e o motivo deles só
+acontecerem nos micros do laboratório 6. Mas, por prevenção, pedimos a
+todos que não utilizem dispositivos USB nesses micros por enquanto.
+
+
+Obrigado pela compreensão,
+Daniel
+
+-- Prof. Dr. Daniel Cordeiro Escola de Artes, Ciências e Humanidades - EACH|USP Universidade de São Paulo http://www.each.usp.br/dc/ _______________________________________________ alunos-si mailing list alunos-si@listas.usp.br https://listas.usp.br/mailman/listinfo/alunos-si
+

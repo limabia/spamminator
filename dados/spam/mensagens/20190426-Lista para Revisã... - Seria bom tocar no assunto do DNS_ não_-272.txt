@@ -1,0 +1,26 @@
+Assunto: Lista para Revisã... - Seria bom tocar no assunto do DNS, não?
+De: "Abel Rocha Espinosa (Documentos Google)" <comments-noreply@docs.google.com>
+Data: 26/04/2019 16:57
+Para: rafernandesjr@usp.br
+Reply-to: Responder
+
+Abel Rocha Espinosa adicionou um comentário a Lista para Revisão - P1 DSID
+Abel Rocha Espinosa
+	
+Abel Rocha Espinosa
+Kenji: Sistemas distribuídos baseados na Web são um padrão conhecido por muitos, na qual estamos falando basicamente de requisições cliente/servidor via browser, utilizando o protocolo HTTP. Sua arquitetura é centralizada, uma vez que quem pode tratar a requisição do cliente é somente o servidor.
+
+Seria bom tocar no assunto do DNS, não?
+Abrir
+		
+		
+		
+	
+	
+		
+		
+		
+Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA
+
+Você recebeu este e-mail porque se inscreveu em todas as discussões de Lista para Revisão - P1 DSID.Alterar o que o Documentos Google envia para você.Você pode responder a este e-mail para responder à discussão.
+	

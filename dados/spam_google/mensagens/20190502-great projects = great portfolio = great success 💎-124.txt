@@ -1,0 +1,85 @@
+Assunto: great projects = great portfolio = great success 💎
+De: Devpost <hackathons@devpost.com>
+Data: 02/05/2019 11:10
+Para: Ricardo <ricardofernandes.8699@usp.br>
+Reply-to: 
+great projects = great portfolio = great success 💎
+
+Hopefully a hackathon will mark the beginning of your project, not the end. Continuing work on your project helps you learn, improve your craft, and apply for a job. Here’s what you can do on Devpost when the hackathon is over:
+
+    🎥 Add a demo video and additional images to give everyone an inside look at the project
+
+    ✏️ Use the Updates feature to notify your followers of new changes
+
+    🦁 List your contributions to let people know what you accomplished
+
+    📋 Show your work by adding a link to your repo
+
+Revamping your project pages leads to a better portfolio. Check out how these hackers are using their project pages to create robust Devpost portfolios:
+
+Kevin Zhang Recent winner at UofTHacksVI 🏆
+
+Yasmeen Roumie Worked for Tinder, Snapchat and NASA 🚀
+
+Miquel Llobet Co-founder of HackUPC 💻
+
+Naomi Pentrel Student, Engineer, Hacker, and Hackathon Organizer 🙌
+
+Now it's your turn! Get started on enhancing your portfolio by improving your project pages.
+
+Need help on creating a project page? View this help article.
+Hacker's Choice Winners - May 2, 2019
+
+👴 Elderly Vibrations An effective solution for the elderly blind.
+
+😎 LiveGuard Enabling lifeguards to enhance their ability to save lives.
+
+🐶 Caesar Cipher Using a monoalphabetic substitution cipher to encrypt or decrypt a message.
+Featured Hackathons
+⚡#PoweredByTF 2.0 Challenge!
+
+TensorFlow2.0 has arrived! Some features you can expect to see in TF 2.0 are robust model deployment in production on any platform, easy model building with Keras, and low-level control with the Keras Subclassing API and tf.Module. 
+
+In this hackathon, you can use their alpha release of TensorFlow 2.0 to build a model, a mobile application, or even an art installation!
+
+Note: This release of TF 2.0 is an alpha, on the bleeding edge of development, and not yet intended for production use. If you run into any snags or encounter any bugs, please submit an issue on GitHub.
+
+Prizes: Round-trip airfare and lodging for your project team to showcase your solution at TensorFlow World plus more. 
+Submission Deadline: May 6
+Local hackathons in May–July
+
+    EFTW Achievement Summit Student Challenge, Menlo Park, CA
+    Hack Exeter, Exeter, NH
+    FraserHacks, Mississauga, Canada
+    PC Hacks 2019, Mississauga, Canada
+    HackXR 2019, San Diego, CA
+    Hack-a-Pipeline, Milwaukee, WI
+    HackPrague 2019, Hlavní město Praha, Czechia
+    Hacking for Humanity - Girls in Tech Vancouver, Vancouver, Canada
+    2019 Philly Codefest at Drexel University, Philadelphia, PA
+    New Futures Hackathon for Disaster Resilience, Newcastle, Australia
+    Copernicus Hackathon Ireland, Galway, Ireland
+    HackDelft 2019, Delft, Netherlands
+    Consensus 2019 Building Blocks Hackathon, New York, NY
+    BUIDL - Boston Blockchain Week Hackathon, Boston, MA
+    E-bloc Climate Change Challenge, Redlands, CA
+    SunCode 2019, Oakland, CA
+    OmniHacks, Fremont, CA
+    Open Source ERP Hackathon, New York, NY
+    Kredi Hesaplama,
+    CryptoChicks Blockchain and AI Hackathon and Conference 2019 in Toronto, Canada, Toronto, Canada
+    qchack, San Diego, California
+    HackHunterdon, Flemington, NJ
+    National Blockchain Challenge, Singapore, Singapore
+
+Find a Hackathon Near You
+
+
+
+
+
+
+This email was sent to ricardofernandes.8699@usp.br
+why did I get this?    unsubscribe from this list    update subscription preferences
+Devpost, Inc. · 222 Broadway · 19th Floor · New York, NY 10038 · USA
+

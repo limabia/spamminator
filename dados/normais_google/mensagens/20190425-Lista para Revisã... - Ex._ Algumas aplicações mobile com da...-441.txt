@@ -1,0 +1,42 @@
+Assunto: Lista para Revisã... - Ex.: Algumas aplicações mobile com da...
+De: Documentos Google <comments-noreply@docs.google.com>
+Data: 25/04/2019 19:44
+Para: rafernandesjr@usp.br
+Reply-to: Responder
+
+Jordana Cristina Borges Arruda Carnicelli e Abel Rocha Espinosa responderam a um comentário em Lista para Revisão - P1 DSID
+Abel Rocha Espinosa
+	
+Abel Rocha Espinosa
+e) Como o exemplo anterior, porém a aplicação no usuário mantém um lugar para guardar os dados, além do servidor.
+
+Ex.: Algumas aplicações mobile com dados cacheados no cliente. [?]
+Jordana Cristina Borges Arruda Carnicelli
+	
+Jordana Cristina Borges Arruda Carnicelli
+
+o próprio app poderia ser.
+Pense em um app que usa um banco de dados estilo sqlite e funciona offline, realizando sincronização em alguns momentos, quando há conexão com a internet.
+Jordana Cristina Borges Arruda Carnicelli
+	
+Jordana Cristina Borges Arruda Carnicelli
+
+Aí no momento da sincronização ele poderia jogar os dados para um servidor, mas em um primeiro momento estavam todos no cliente
+Abel Rocha Espinosa
+	
+Abel Rocha Espinosa
+
+Isso! :)
+Abrir
+		
+		
+		
+	
+	
+		
+		
+		
+Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA
+
+Você recebeu este e-mail porque se inscreveu em todas as discussões de Lista para Revisão - P1 DSID.Alterar o que o Documentos Google envia para você.Você pode responder a este e-mail para responder à discussão.
+	

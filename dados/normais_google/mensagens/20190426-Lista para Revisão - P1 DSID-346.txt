@@ -1,0 +1,68 @@
+Assunto: Lista para Revisão - P1 DSID
+De: "Abel Rocha Espinosa (Documentos Google)" <comments-noreply@docs.google.com>
+Data: 26/04/2019 14:04
+Para: rafernandesjr@usp.br
+Reply-to: Sem resposta
+
+Abel Rocha Espinosa adicionou comentários a Lista para Revisão - P1 DSID
+Novo
+1 comentário
+	
+Resolvido
+1 comentário
+		
+		
+		
+	
+	
+		
+		
+		
+Novo
+Comentários
+Gabriel Henrique da Silva Pinto
+	
+Gabriel Henrique da Silva Pinto
+por exemplo.
+
+Acho legal acrescentar aqui que alguns sistemas precisam de mais confiabilidade, tipo sistemas de usinas, que dependem de real time, tipo a coisa tem que acontecer em menos de 20ms, nesses sistemas coisa tão assincronas podem ser um problema
+Abel Rocha Espinosa
+	
+Abel Rocha Espinosa
+
+Top!
+ResponderAbrir
+		
+		
+		
+	
+	
+		
+		
+		
+Resolvido
+Comentários
+Abel Rocha Espinosa
+	
+Abel Rocha Espinosa
+Em um sistema de software(centralizado), ter um relógio global significa garantir a sincronia entre os diferentes processos. Ex: para obter a hora, os processos a e b fazem uma chamada ao sistema operacional, se A executa antes de B ,então tA < tB para que ele seja executado antes.
+
+O que significa um possível impedimento para os sistemas distribuídos, uma vez que a centralização, geralmente, implica na geração de gargalos.
+Abel Rocha Espinosa
+	
+Abel Rocha Espinosa
+
+Marcada como resolvida
+ResponderAbrir
+		
+		
+		
+	
+	
+		
+		
+		
+Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA
+
+Você recebeu este e-mail porque participou das sequências de discussão atualizadas.Alterar o que o Documentos Google envia para você.Não é possível responder a este e-mail.
+	

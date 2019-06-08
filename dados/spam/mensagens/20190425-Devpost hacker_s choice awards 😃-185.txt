@@ -1,0 +1,86 @@
+Assunto: Devpost hacker's choice awards 😃
+De: Devpost <hackathons@devpost.com>
+Data: 25/04/2019 10:21
+Para: Ricardo <ricardofernandes.8699@usp.br>
+Reply-to: 
+Devpost hacker's choice awards 😃
+
+We're starting a hacker's choice award for the rest of the season! Every week we'll pick opted-in hackathons and have hackers like their favorite projects. At the end of the week we'll tally up the likes (we do not include likes for yourself).
+
+The winners will be featured in our newsletter each week.
+
+Pro tip: make sure your hackathon organizers announce their winners on the site otherwise your projects won't be eligible!
+ 
+Hacker's Choice Winners - April 25
+
+🌇 PrismFinder Do you like looking for cool patterns and using VR? If so, then PrismFinder is for you! 
+
+🧮 Vector Calc Sandbox An immersive VR math education and visualization tool for multivariate calculus.
+
+🐶 Virtual Dog All the fun of having a dog without the responsibilities!
+
+👀 VisionTech A device for the visually impaired.
+Featured Hackathons
+
+Ends soon! MongoDB World Hackathon
+
+Developers are challenged to build functioning software using at least one of the following MongoDB developer tools: MongoDB Server, MongoDB Atlas, MongoDB Stitch, MongoDB Mobile, and MongoDB Chart. 
+
+Build applications that use at least one of the following MongoDB developer tools and win a trip to New York City where you will present your projects on stage at their annual conference, MongoDB World!
+
+Prizes: $10,000 grand prize + finalists will receive a trip to MongoDB World 2019 to present their application (see website for full details)
+Submission Deadline: April 30 - View Updates for tips and important information before you submit!
+⚡#PoweredByTF 2.0 Challenge!
+
+TensorFlow2.0 has arrived! Some features you can expect to see in TF 2.0 are robust model deployment in production on any platform, easy model building with Keras, and low-level control with the Keras Subclassing API and tf.Module. 
+
+In this hackathon, you can use their alpha release of TensorFlow 2.0 to build a model, a mobile application, or even an art installation!
+
+Note: This release of TF 2.0 is an alpha, on the bleeding edge of development, and not yet intended for production use. If you run into any snags or encounter any bugs, please submit an issue on GitHub.
+
+Prizes: Round-trip airfare and lodging for your project team to showcase your solution at TensorFlow World plus more. 
+Submission Deadline: May 6
+Local hackathons in April–June
+
+    Orb-A-Palooza, Boston, MA
+    Accenture Hackathon - Blockchain Edition, Barangaroo, Australia
+    Brother Hackathon Dallas, Carrollton, TX
+    Shark Hack 2019, Boston, MA
+    Citrus Hack 2019: Secure the Future, Riverside, CA
+    LaunchHacks I, Fremont, CA
+    Superposition III, Oakland, CA
+    Hack At Lynn 2019, Boca Raton, FL
+    EarthxHack 2019, Dallas, TX
+    Hack Exeter, Exeter, NH
+    Hack-a-Pipeline, Milwaukee, WI
+    HackPrague 2019, Hlavní město Praha, Czechia
+    2019 Philly Codefest at Drexel University, Philadelphia, PA
+    New Futures Hackathon for Disaster Resilience, Newcastle, Australia
+    Copernicus Hackathon Ireland, Galway, Ireland
+    HackDelft 2019, Delft, Netherlands
+    BUIDL - Boston Blockchain Week Hackathon, Cambridge, MA
+    Consensus 2019 Building Blocks Hackathon, New York, NY
+    E-bloc Climate Change Challenge, Redlands, CA
+    SunCode 2019, Oakland, CA
+    Open Source ERP Hackathon, New York, NY
+    OmniHacks, Fremont, CA
+    Texas Hold’em Poker Corda Hack, Greater London, United Kingdom
+    SaludConTech Hackathon, Los Angeles, CA
+    CryptoChicks Blockchain and AI Hackathon and Conference 2019 in Toronto, Canada, Toronto, Canada
+    qchack, San Diego, California
+    HackHunterdon, Flemington, NJ
+    National Blockchain Challenge, Singapore, Singapore
+    UHack 2019, Australia
+    CincyHacks 2019, Cincinnati, OH
+
+Find a Hackathon Near You
+
+
+
+
+
+
+This email was sent to ricardofernandes.8699@usp.br
+why did I get this?    unsubscribe from this list    update subscription preferences
+Devpost, Inc. · 222 Broadway · 19th Floor · New York, NY 10038 · USA
+

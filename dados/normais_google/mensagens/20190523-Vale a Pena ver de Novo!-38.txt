@@ -1,0 +1,93 @@
+Assunto: Vale a Pena ver de Novo!
+De: "Réulison, DevMedia" <reulison@devmedia.com.br>
+Data: 23/05/2019 15:36
+Para: "Ricardo Fernandes" <ricardofernandes.8699@usp.br>
+
+Olá Ricardo, Logo depois vem a sessão da tarde! Brincadeira, mas nesse e-mail vamos rever um dos principais conteúdos do Portal.
+DevMedia
+Viver é recordar
+
+Sim! O e-mail hoje foi patrocinado pela Globo...kkkk
+
+Grandes Sucessos da Sessão da Tarde e Vale a Pena ver de Novo.
+
+Mas hoje vamos listar os principais conteúdos publicados em nosso portal e que talvez você tenha perdido.
+
+Como diziar meu querido Amaury Dumbo: Vem comigo!
+Séries
+Já conferiu nossas Séries?
+
+Séries sobre programação que abordam os principais temas da área. Confira nossas Séries sobre Angular, JWT, Python, SQL e muito mais.
+Maratonar →
+DevCast TV Apresentando o Node.js
+Apresentando o Node.js
+Aperte o play!
+SEJA UM ASSINANTE
+
+Tenha acesso completo a toda Plataforma DevMedia.
+ASSINE →
+JÁ SEGUE NOSSO TWITTER?
+
+Em nosso Twitter você pode interagir com a DevMedia e a nossa Comunidade em tempo real.
+SEGUIR →
+Primeiros passos com React
+Curso de React
+
+Sinta fortes emoções ao desenvolver uma Single Page Application utilizando o React, uma das principais bibliotecas JavaScript da atualidade.
+Assista agora →
+DevCast TV O que é Flutter?
+O que é Flutter?
+Aperte o play!
+Hello World com Flutter
+
+Construa seu primeiro aplicativo utilizando o Flutter, o framework para a construção de aplicativos nativos para Android, iOS e muito mais.
+Ler mais →
+Conhecendo o jeito Java de programar
+Conhecendo o jeito Java de programar
+
+Aquela musica tocando na mente agora! Rsrsrs. Oi oi oi...
+Nesse meetup falamos sobre como a linguagem Java é utilizada hoje, com o Spring Boot, usando como exemplo uma aplicação MVC que acessa um banco de dados relacional..
+Acessar meetup →
+NO YOUTUBE
+ORIENTAÇÃO A OBJETOS em 8 minutos
+Aperte o play!
+Programação Orientada a Objetos
+
+Conheça nesse artigo os 4 principais pilares, bem como as diferenças para programação estruturada e as principais vantagens da POO.
+Ler agora →
+DevCast TV Python no Mundo Real
+Python no Mundo Real
+Aperte o play!
+Duck Typing com Python
+
+Python é uma linguagem dinamcamente tipada que não possui interfaces. Essas características da linguagem deixam claro que Python não implementa polimorfismo da mesma forma que linguagens como Java e PHP: utiliza Duck Typing.
+Ler agora →
+Comunidade
+
+Tudo sobre o mundo da programação com a maior comunidade do Brasil.
+Manipulando checkboxes com PHP e Postgresql
+
+Tags: PostgreSQL PHP
+
+Rivaldo Souza perguntou para Ricardo:
+
+Como criar um formulário que tenha checkbox que fará conexão com postgresql, e que quando eu solicitar alteração nesse formulário a opção selecionada seja apresentada selecionada para sofrer se for necessário a alteração devida.
+
+Como resolver isso ?
+Responda →
+COMPARTILHE ❤
+
+Espalhe a palavra! Convide outras pessoas para conhecer a DevMedia.
+
+Acesse o Portal > Clique no Perfil > Indique um amigo
+CONVIDAR →
+DevMedia
+Não consegue ver as imagens?   •   Encaminhar
+
+Assine agora →
+Sent to: ricardofernandes.8699@usp.br
+
+Unsubscribe
+
+DevMedia, Av. Ayrton Senna, 3000, Shopping Via Parque, Rio de Janeiro - RJ, 22775-002, Brazil
+

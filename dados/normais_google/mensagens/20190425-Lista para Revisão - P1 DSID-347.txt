@@ -1,0 +1,55 @@
+Assunto: Lista para Revisão - P1 DSID
+De: "Lucas Leal Caparelli (Documentos Google)" <comments-noreply@docs.google.com>
+Data: 25/04/2019 23:54
+Para: rafernandesjr@usp.br
+Reply-to: Sem resposta
+
+Lucas Leal Caparelli adicionou comentários a Lista para Revisão - P1 DSID
+Novo
+2 comentários
+		
+		
+		
+	
+	
+		
+		
+		
+Novo
+Comentários
+Lucas Leal Caparelli
+	
+Lucas Leal Caparelli
+b) Um sistema como a opção a), porém o lado servidor não possui interface alguma
+
+Página Web apenas com HTML e CSS
+Lucas Leal Caparelli
+	
+Lucas Leal Caparelli
+
+Marcada como resolvida
+ResponderAbrir
+Lucas Leal Caparelli
+	
+Lucas Leal Caparelli
+c) A camada de aplicação é movida para o lado do usuário, permitindo que o sistema interaja com o usuário, por exemplo, para pedir que o mesmo corrija algum campo que tenha preenchido.
+
+Página Web com HTML/CSS e Javascript (ou qualquer outra aplicação local, como Flash)
+Lucas Leal Caparelli
+	
+Lucas Leal Caparelli
+
+Marcada como resolvida
+ResponderAbrir
+		
+		
+		
+	
+	
+		
+		
+		
+Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA
+
+Você recebeu este e-mail porque participou das sequências de discussão atualizadas.Alterar o que o Documentos Google envia para você.Não é possível responder a este e-mail.
+	

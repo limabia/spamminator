@@ -1,0 +1,26 @@
+Assunto: Lista para Revisã... - Acho legal acrescentar aqui que algun...
+De: "Gabriel Henrique da Si... (Documentos Google)" <comments-noreply@docs.google.com>
+Data: 26/04/2019 11:43
+Para: rafernandesjr@usp.br
+Reply-to: Responder
+
+Gabriel Henrique da Silva Pinto adicionou um comentário a Lista para Revisão - P1 DSID
+Gabriel Henrique da Silva Pinto
+	
+Gabriel Henrique da Silva Pinto
+por exemplo.
+
+Acho legal acrescentar aqui que alguns sistemas precisam de mais confiabilidade, tipo sistemas de usinas, que dependem de real time, tipo a coisa tem que acontecer em menos de 20ms, nesses sistemas coisa tão assincronas podem ser um problema
+Abrir
+		
+		
+		
+	
+	
+		
+		
+		
+Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA
+
+Você recebeu este e-mail porque se inscreveu em todas as discussões de Lista para Revisão - P1 DSID.Alterar o que o Documentos Google envia para você.Você pode responder a este e-mail para responder à discussão.
+	

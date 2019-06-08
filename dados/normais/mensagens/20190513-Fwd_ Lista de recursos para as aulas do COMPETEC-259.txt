@@ -1,0 +1,32 @@
+Assunto: Fwd: Lista de recursos para as aulas do COMPETEC
+De: João Francisco Cocca Fukuda <joao.fukuda@usp.br>
+Data: 13/05/2019 19:00
+Para: PET SI EACH USP <pet-si-each-usp@googlegroups.com>
+
+SEGUNDA TENTATIVA
+
+Liste aqui os recursos das respectivas aulas:
+ps.: Conteúdos em português é preferível!
+
+Aula 1 - Tipos primitivos, operações e I/O
+
+    Place Holder
+
+Aula 2 - Controle de Fluxo 1
+
+    Place Holder
+
+Aula 3 - Controle de Fluxo 2
+
+    Place Holder
+
+Aula 5 - Vetores
+
+    Place Holder
+
+-- 
+Você recebeu essa mensagem porque está inscrito no grupo "PET SI EACH USP" dos Grupos do Google.
+Para cancelar inscrição nesse grupo e parar de receber e-mails dele, envie um e-mail para pet-si-each-usp+unsubscribe@googlegroups.com.
+Para postar nesse grupo, envie um e-mail para pet-si-each-usp@googlegroups.com.
+Para ver essa discussão na Web, acesse https://groups.google.com/d/msgid/pet-si-each-usp/CABdK5xsghjLvR7380rG122Jd-NGYELmLWwHcAPx%2BOi-F4XOjEg%40mail.gmail.com.
+Para mais opções, acesse https://groups.google.com/d/optout.
