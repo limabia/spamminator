@@ -1,0 +1,47 @@
+Assunto: Lista para Revisão - P1 DSID
+De: Documentos Google <comments-noreply@docs.google.com>
+Data: 25/04/2019 22:31
+Para: rafernandesjr@usp.br
+Reply-to: Sem resposta
+
+Eduardo Kenji Matsuda e Gabriel Rodrigues adicionaram comentários a Lista para Revisão - P1 DSID
+Novo
+2 comentários
+		
+		
+		
+	
+	
+		
+		
+		
+Novo
+Comentários
+Gabriel Rodrigues
+	
+Gabriel Rodrigues
+baixo nível
+
+Aqui seria "alto nível" certo?
+ResponderAbrir
+Eduardo Kenji Matsuda
+	
+Eduardo Kenji Matsuda
+As implementações dos sistemas que seguem as organizações descritas na Questão 19 podem ser multithreaded ? Explique se isso é possível e se é vantajoso nas situações de (a) a (e).
+
+Na minha humilde opinião tudo pode ser multi thread se pensarmos em paralelismo, a questão é que em alguns só faz sentido ou só é possível do lado do servidor enquanto outros podem ser em ambos...
+
+Se é vantajoso o multi thread, o que inclui implementar todo um gerenciador para administrar tais thread, evitando assim concorrência, locks e até estouro de memória, aí é outra história, mas que é possível é possível em todos.
+ResponderAbrir
+		
+		
+		
+	
+	
+		
+		
+		
+Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA
+
+Você recebeu este e-mail porque participou das sequências de discussão atualizadas.Alterar o que o Documentos Google envia para você.Não é possível responder a este e-mail.
+	

@@ -1,0 +1,43 @@
+Assunto: Weekly Excel Bite #21
+De: "Udemy Instructor: Paula Guilfoyle" <no-reply@e.udemymail.com>
+Data: 22/05/2019 09:53
+Para: ricardofernandes.8699@usp.br
+
+Udemy
+
+Novo Anúncio Educacional
+	
+
+Olá, Ricardo Augusto Fernandes. Um anúncio foi feito por Paula, instrutor de Power BI - The Ultimate Orientation.
+
+Naming ranges in Excel can help you bring a lot of flexibility into your workbooks.
+
+
+First, named ranges have an explicit name.
+
+Second, named ranges can be formula-based.
+
+Third, named range allow you to type formulas faster.
+
+Fourth, named ranges are very useful for VBA developers.
+
+
+Have I got you yet? Are you ready to learn how to use Named Ranges?
+
+In this weeks article, you will learn how to set up a named range and how you can work with the range. This article has a workbook for you to download so that you can practice along with us and we have our weekly Learn and Earn activity.
+
+Step by Step – Named Ranges in Excel
+
+I am eager to start giving out steem rewards for your efforts in learning Excel with me and I really hope, if you have a STEEM account, that you will partake in the activity as it is nice and easy this week. If you don't yet have a steem account, you can still carry out the activity and practice along, but I can not reward you with tokens. You can find out more about out learn and earn activities and how to get a steem account in this post
+
+That's it for this week folks. See you all next week.
+
+Kind Regards
+
+Paula
+
+
+The Excel Club
+Ver comunicado
+
+Entregue por Udemy 600 Harrison Street, 3rd Floor, San Francisco, CA 94107. Você poderá cancelar a assinatura se preferir não receber mensagens como estas. Se algo não estiver certo,denuncie abuso.
