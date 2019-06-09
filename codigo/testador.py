@@ -3,7 +3,11 @@ import unittest
 import os
 from codigo import tratador_de_dados
 
-class TesteGeadorDeConjunto(unittest.TestCase):
+def diferenca_de_listas(p, s):
+    s = set(s)
+    return [i for i in p if i not in s]
+
+class TesteDeFuncoes(unittest.TestCase):
     def test_carregar_arquivo_em_lista(self):
         nome_arquivo = 'arquivo_de_teste_temporario_01.txt'
         with open(nome_arquivo, 'w+') as arquivo:
@@ -65,6 +69,28 @@ class TesteGeadorDeConjunto(unittest.TestCase):
         assert lista_de_conteudo_lida == lista_original, 'as listas nao podem ser diferentes, lista_lida: {}\nlista_original: {}'.format(lista_de_conteudo_lida, lista_original)
 
         os.remove(nome_do_arquivo)
+
+class TesteDeConsistenciaDeDados(unittest.TestCase):
+    def conjuntos(self):
+
+        for diretorio_teste in os.listdir(tratador_de_dados.diretorio_dos_conjuntos):
+            caminho = tratador_de_dados.diretorio_dos_conjuntos + diretorio_teste
+            arquivo_treino = caminho + tratador_de_dados.nome_arquivo_saida_de_treino
+            arquivo_teste = caminho + tratador_de_dados.nome_arquivo_saida_de_teste
+
+            emails_treino = tratador_de_dados.carregar_arquivo_em_lista(arquivo_treino)
+            emails_teste = tratador_de_dados.carregar_arquivo_em_lista(arquivo_teste)
+
+            diferenca1 = diferenca_de_listas(emails_treino, emails_teste)
+            diferenca2 = diferenca_de_listas(emails_teste, emails_treino)
+
+            assert (diferenca1 == len(emails_treino)), 'Nao pode haver elementos comuns em ambas as listas'
+            assert (diferenca2 == len(emails_teste)), 'Nao pode haver elementos comuns em ambas as listas'
+
+            uniao = emails_treino + emails_teste
+
+            emails_orginais = os.listdir(tratador_de_dados.diretorio_dos_emails)
+            assert len(uniao) == len(emails_orginais), 'Existem {} emails no diretorio, mas {}+{} = {} na soma dos dois conjuntos'.format(len(emails_orginais), len(emails_treino), len(emails_teste), len(uniao))
 
 if __name__ == '__main__':
     unittest.main()
