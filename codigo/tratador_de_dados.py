@@ -144,7 +144,7 @@ def criar_catalogos():
         else:
             print('Catálogo do diretorio {} já criado'.format(diretorio + nome_catalogo_spam))
 
-        if not os.path.isfile(diretorio + diretorio_relativo_nao_spam):
+        if not os.path.isfile(diretorio + nome_catalogo_nao_spam):
             print('Criando catálogo do diretorio {}'.format(diretorio + diretorio_relativo_nao_spam))
             gerar_catalogo_de_emails(diretorio + diretorio_relativo_nao_spam, diretorio + nome_catalogo_nao_spam)
         else:
@@ -192,7 +192,7 @@ def tratar():
     criar_catalogos()
 
     apagar_conjuntos(False)
-    gerar_conjuntos(True, 100)
+    gerar_conjuntos(False, 100)
 
 def main():
     tratar()
