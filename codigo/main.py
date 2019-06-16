@@ -51,7 +51,7 @@ def pre_processamento(mess):
         else:
             nopunc.append(' ')
     nopunc = ''.join(nopunc)
-    return [remover_acentos(word.lower()) for word in nopunc.split()]
+    return [word.lower() for word in nopunc.split()]
 
 def pre_processamento_sem_stopwords(mess):
     nopunc = []
@@ -84,7 +84,7 @@ def main():
     # separa massa de treino e massa de testes
     #massa_treino, massa_teste, labels_treino, labels_teste = train_test_split(df['texto'], df['label'], test_size=0.2)
 
-    nome_arquivo_saida = 'simulacao_04_sem_remover_stopword.csv'
+    nome_arquivo_saida = 'simulacao_09_1000_removendo_stopword.csv'
 
     if os.path.isfile(nome_arquivo_saida):
         print('[!] O arquivo {} já existe, escolha outro nome'.format(nome_arquivo_saida))
@@ -102,25 +102,26 @@ def main():
 
     # constroi pipeline
     pipeline = Pipeline([
-        ('bow', CountVectorizer(analyzer=pre_processamento)),
+        ('bow', CountVectorizer(analyzer=pre_processamento_sem_stopwords)),
         # Bag of words - https://en.wikipedia.org/wiki/Bag-of-words_model
         ('tfidf', TfidfTransformer()),  # TF-IDF - https://en.wikipedia.org/wiki/Tf%E2%80%93idf
         ('classifier', MultinomialNB()),  # Naive Bayes - Multinomial
     ])
 
-    for i in range(100):
-        print('Rodada {} em execucao'.format(i))
+    for i in range(1000):
+        print('Teste {} em execucao'.format(i))
 
         massa_treino, massa_teste, labels_treino, labels_teste = gerar_conjuntos(df)
 
-        print('\nTreinando modelo')
+        print('  Treinando modelo')
         pipeline.fit(massa_treino, labels_treino)
     
-        print('\nTestando modelo')
+        print('  Testando modelo')
         predictions = pipeline.predict(massa_teste)
 
         print(classification_report(predictions, labels_teste))
-        print(confusion_matrix(predictions, labels_teste))
+        print('\n')
+        #(confusion_matrix(predictions, labels_teste))
 
         c = classification_report(predictions, labels_teste, output_dict=True)
         m = confusion_matrix(predictions, labels_teste)
