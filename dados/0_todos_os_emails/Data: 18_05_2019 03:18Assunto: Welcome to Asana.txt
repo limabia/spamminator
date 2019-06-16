@@ -1,7 +1,5 @@
-Assunto: Welcome to Asana
-De: "Asana" <no-reply@welcome.asana.com>
-Data: 18/05/2019 03:18
-Para: "Ricardo Fernandes" <rafernandesjr@usp.br>
+Welcome to Asana
+"Asana" <no-reply@welcome.asana.com>
 
 Welcome to Asana
 

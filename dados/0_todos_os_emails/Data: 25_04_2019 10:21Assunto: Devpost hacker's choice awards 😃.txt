@@ -1,8 +1,5 @@
-Assunto: Devpost hacker's choice awards 😃
-De: Devpost <hackathons@devpost.com>
-Data: 25/04/2019 10:21
-Para: Ricardo <ricardofernandes.8699@usp.br>
-Reply-to: 
+Devpost hacker's choice awards 😃
+Devpost <hackathons@devpost.com>
 Devpost hacker's choice awards 😃
 
 We're starting a hacker's choice award for the rest of the season! Every week we'll pick opted-in hackathons and have hackers like their favorite projects. At the end of the week we'll tally up the likes (we do not include likes for yourself).

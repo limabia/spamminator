@@ -1,7 +1,5 @@
-Assunto: ⏰ Candidatos: 6 vagas de Desenvolvedor Java Pleno e outros
-De: "InfoJobs - Vagas" <info@infojobs.com.br>
-Data: 11/05/2019 15:29
-Para: ricardofernandes.8699@usp.br
+⏰ Candidatos: 6 vagas de Desenvolvedor Java Pleno e outros
+"InfoJobs - Vagas" <info@infojobs.com.br>
 
 A vaga Desenvolvedor Java Pleno acaba de ser publicada
 

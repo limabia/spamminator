@@ -1,7 +1,5 @@
-Assunto: [alunos-si] Problemas com as portas USB dos micros do Lab. 6
-De: Daniel de Angelis Cordeiro <daniel.cordeiro@usp.br>
-Data: 03/05/2019 11:16
-Para: alunos-si <alunos-si@listas.usp.br>
+[alunos-si] Problemas com as portas USB dos micros do Lab. 6
+Daniel de Angelis Cordeiro <daniel.cordeiro@usp.br>
 
 Olá pessoal,
 

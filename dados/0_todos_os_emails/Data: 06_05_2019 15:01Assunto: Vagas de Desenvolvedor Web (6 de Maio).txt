@@ -1,7 +1,5 @@
-Assunto: Vagas de Desenvolvedor Web (6 de Maio)
-De: "InfoJobs - Vagas" <info@infojobs.com.br>
-Data: 06/05/2019 15:01
-Para: ricardofernandes.8699@usp.br
+Vagas de Desenvolvedor Web (6 de Maio)
+"InfoJobs - Vagas" <info@infojobs.com.br>
 
 A vaga Programador Back-End acaba de ser publicada
 

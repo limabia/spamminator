@@ -1,8 +1,5 @@
-Assunto: [CodinGame Newsletter] Bit Runner 2048, A Code of Ice & Fire, and more...
-De: "Thibaud (from CodinGame)" <thibaud@codingame.com>
-Data: 30/04/2019 11:01
-Para: ricardofernandes.8699@usp.br
-Reply-to: thibaud@codingame.com
+[CodinGame Newsletter] Bit Runner 2048, A Code of Ice & Fire, and more...
+"Thibaud (from CodinGame)" <thibaud@codingame.com>
 
  
 	NEWSLETTER #7

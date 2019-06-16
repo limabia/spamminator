@@ -1,7 +1,5 @@
-Assunto: Veduca | Boas vindas ao Veduca! Vamos estudar?
-De: contato@veduca.org
-Data: 30/04/2019 04:03
-Para: rafernandesjr@usp.br
+Veduca | Boas vindas ao Veduca! Vamos estudar?
+contato@veduca.org
 
 Logo da Veduca
 Olá Ricardo, como vai?

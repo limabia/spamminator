@@ -1,7 +1,5 @@
-Assunto: Candidatos: 16 vagas de Programador - PHP JR e outros
-De: "InfoJobs" <info@infojobs.com.br>
-Data: 10/05/2019 15:07
-Para: ricardofernandes.8699@usp.br
+Candidatos: 16 vagas de Programador - PHP JR e outros
+"InfoJobs" <info@infojobs.com.br>
 
 A vaga Programador acaba de ser publicada
 

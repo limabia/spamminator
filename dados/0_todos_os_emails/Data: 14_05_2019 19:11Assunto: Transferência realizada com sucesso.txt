@@ -1,7 +1,5 @@
-Assunto: Transferência realizada com sucesso
-De: Nubank <todomundo@nubank.com.br>
-Data: 14/05/2019 19:11
-Para: Ricardo <rafernandesjr@usp.br>
+Transferência realizada com sucesso
+Nubank <todomundo@nubank.com.br>
 
 Transferência realizada com sucesso
 Olá, Ricardo!

@@ -1,7 +1,5 @@
-Assunto: Vagas de Desenvolvedor Web (29 de Abril)
-De: "InfoJobs - Vagas" <info@infojobs.com.br>
-Data: 29/04/2019 15:20
-Para: ricardofernandes.8699@usp.br
+Vagas de Desenvolvedor Web (29 de Abril)
+"InfoJobs - Vagas" <info@infojobs.com.br>
 
 A vaga Desenvolvedor Node.Js-Pleno acaba de ser publicada
 

@@ -1,8 +1,5 @@
-Assunto: SOLICITAÇÃO ABERTA NO SISTEMA
-De: Serviço de atendimento ao Aluno - EACH <formularios-each@usp.br>
-Data: 24/04/2019 22:56
-Para: rafernandesjr@usp.br
-Reply-to: SISTEMA OCOMON
+SOLICITAÇÃO ABERTA NO SISTEMA
+Serviço de atendimento ao Aluno - EACH <formularios-each@usp.br>
 
 Caro(a) Aluno(a),
 Sua solicitação foi aberta com sucesso no sistema de atendimento.

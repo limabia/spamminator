@@ -1,7 +1,5 @@
-Assunto: AWS Support (Basic) Cancellation
-De: Amazon Web Services <no-reply-aws@amazon.com>
-Data: 28/04/2019 16:07
-Para: "ricardofernandes.8699@usp.br" <ricardofernandes.8699@usp.br>
+AWS Support (Basic) Cancellation
+Amazon Web Services <no-reply-aws@amazon.com>
 
 Greetings from Amazon Web Services,
 

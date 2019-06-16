@@ -1,7 +1,5 @@
-Assunto: Todoist mai 17 (1 para hoje)
-De: "Todoist" <daily-digest@todoist.com>
-Data: 17/05/2019 03:52
-Para: ricardofernandes.8699@usp.br
+Todoist mai 17 (1 para hoje)
+"Todoist" <daily-digest@todoist.com>
 
 Todoist Blog: Migrate From Slack to Twist with the New Data Importer...
 

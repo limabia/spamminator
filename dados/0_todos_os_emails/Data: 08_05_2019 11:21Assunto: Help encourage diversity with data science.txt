@@ -1,8 +1,5 @@
-Assunto: Help encourage diversity with data science
-De: "Team from Kaggle" <team@kaggle.intercom-mail.com>
-Data: 08/05/2019 11:21
-Para: ricardofernandes.8699@usp.br
-Reply-to: Team from Kaggle
+Help encourage diversity with data science
+"Team from Kaggle" <team@kaggle.intercom-mail.com>
 
  
 

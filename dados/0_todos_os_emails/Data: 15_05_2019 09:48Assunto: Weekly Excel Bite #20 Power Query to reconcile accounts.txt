@@ -1,7 +1,5 @@
-Assunto: Weekly Excel Bite #20 Power Query to reconcile accounts
-De: "Udemy Instructor: Paula Guilfoyle" <no-reply@e.udemymail.com>
-Data: 15/05/2019 09:48
-Para: ricardofernandes.8699@usp.br
+Weekly Excel Bite #20 Power Query to reconcile accounts
+"Udemy Instructor: Paula Guilfoyle" <no-reply@e.udemymail.com>
 
 Udemy
 

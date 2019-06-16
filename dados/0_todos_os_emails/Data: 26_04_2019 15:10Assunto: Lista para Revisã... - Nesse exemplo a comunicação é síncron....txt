@@ -1,8 +1,5 @@
-Assunto: Lista para Revisã... - Nesse exemplo a comunicação é síncron...
-De: "Eduardo Kenji Matsuda (Documentos Google)" <comments-noreply@docs.google.com>
-Data: 26/04/2019 15:10
-Para: rafernandesjr@usp.br
-Reply-to: Responder
+Lista para Revisã... - Nesse exemplo a comunicação é síncron...
+"Eduardo Kenji Matsuda (Documentos Google)" <comments-noreply@docs.google.com>
 
 Eduardo Kenji Matsuda respondeu a um comentário em Lista para Revisão - P1 DSID
 Lucas Leal Caparelli

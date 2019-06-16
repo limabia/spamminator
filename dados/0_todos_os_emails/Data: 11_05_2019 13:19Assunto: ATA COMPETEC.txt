@@ -1,7 +1,5 @@
-Assunto: ATA COMPETEC
-De: Christian Keith Kobashikawa <chrisk11@usp.br>
-Data: 11/05/2019 13:19
-Para: PET SI EACH USP <pet-si-each-usp@googlegroups.com>, Caio Massaharu Damaceno Fumiya <caiofumiya@usp.br>, Andre Faleiros Alves Paschoal <andre.faleiros.paschoal@usp.br>
+ATA COMPETEC
+Christian Keith Kobashikawa <chrisk11@usp.br>
 
 Turma 1-2
 Foi percebido que os alunos realmente tinham bastante dificuldade com vetores, mas que esta sessão ajudou bastante para a compreensão desse assunto. A resolução da parte 4 da lista foi passada para a sala. 

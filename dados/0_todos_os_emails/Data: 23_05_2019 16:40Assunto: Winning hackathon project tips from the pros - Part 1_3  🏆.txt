@@ -1,8 +1,5 @@
-Assunto: Winning hackathon project tips from the pros - Part 1/3  🏆
-De: Devpost <hackathons@devpost.com>
-Data: 23/05/2019 16:40
-Para: Ricardo <ricardofernandes.8699@usp.br>
-Reply-to: 
+Winning hackathon project tips from the pros - Part 1/3  🏆
+Devpost <hackathons@devpost.com>
 Winning hackathon project tips from the pros - Part 1/3  🏆
 This week we’re starting a 3 part series that will feature advice for winning hackathons. Over the next few weeks you’ll hear from:
 

@@ -1,8 +1,5 @@
-Assunto: Competition Launch: Fine-Grained Visual Categorization 6
-De: "Maggie from Kaggle" <maggie.demkin@kaggle.intercom-mail.com>
-Data: 15/05/2019 17:19
-Para: ricardofernandes.8699@usp.br
-Reply-to: Maggie from Kaggle
+Competition Launch: Fine-Grained Visual Categorization 6
+"Maggie from Kaggle" <maggie.demkin@kaggle.intercom-mail.com>
 
 Kaggle Data
 

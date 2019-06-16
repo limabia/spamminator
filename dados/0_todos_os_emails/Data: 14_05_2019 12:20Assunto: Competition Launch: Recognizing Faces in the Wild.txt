@@ -1,8 +1,5 @@
-Assunto: Competition Launch: Recognizing Faces in the Wild
-De: "Sohier from Kaggle" <sohier.dane@kaggle.intercom-mail.com>
-Data: 14/05/2019 12:20
-Para: ricardofernandes.8699@usp.br
-Reply-to: Sohier from Kaggle
+Competition Launch: Recognizing Faces in the Wild
+"Sohier from Kaggle" <sohier.dane@kaggle.intercom-mail.com>
 
 Kaggle Data
 

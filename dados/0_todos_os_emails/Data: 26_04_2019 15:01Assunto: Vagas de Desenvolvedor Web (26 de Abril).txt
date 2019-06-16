@@ -1,7 +1,5 @@
-Assunto: Vagas de Desenvolvedor Web (26 de Abril)
-De: "InfoJobs - Vagas" <info@infojobs.com.br>
-Data: 26/04/2019 15:01
-Para: ricardofernandes.8699@usp.br
+Vagas de Desenvolvedor Web (26 de Abril)
+"InfoJobs - Vagas" <info@infojobs.com.br>
 
 A vaga Desenvolvedor Front End acaba de ser publicada
 

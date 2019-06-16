@@ -1,7 +1,5 @@
-Assunto: Your copy of DS3
-De: Maarten van Steen <m.r.vansteen@utwente.nl>
-Data: 03/04/2019 21:55
-Para: rafernandesjr@usp.br
+Your copy of DS3
+Maarten van Steen <m.r.vansteen@utwente.nl>
 
 Thank you for requesting "Distributed Systems (3rd edition)."  Your
 copy can be downloaded from

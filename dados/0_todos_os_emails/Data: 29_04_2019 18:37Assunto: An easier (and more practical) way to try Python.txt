@@ -1,8 +1,5 @@
-Assunto: An easier (and more practical) way to try Python
-De: "Dan from Kaggle" <dan.becker@kaggle.intercom-mail.com>
-Data: 29/04/2019 18:37
-Para: ricardofernandes.8699@usp.br
-Reply-to: Dan from Kaggle
+An easier (and more practical) way to try Python
+"Dan from Kaggle" <dan.becker@kaggle.intercom-mail.com>
 
 Kaggle Data
 

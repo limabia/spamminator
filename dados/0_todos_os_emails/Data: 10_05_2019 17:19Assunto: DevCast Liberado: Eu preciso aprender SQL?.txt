@@ -1,7 +1,5 @@
-Assunto: DevCast Liberado: Eu preciso aprender SQL?
-De: "Réulison, DevMedia" <reulison@devmedia.com.br>
-Data: 10/05/2019 17:19
-Para: "Ricardo Fernandes" <ricardofernandes.8699@usp.br>
+DevCast Liberado: Eu preciso aprender SQL?
+"Réulison, DevMedia" <reulison@devmedia.com.br>
 
 Abrimos nosso DevCast sobre SQL durante esse final de semana (11-12 de Maio)
 DevMedia

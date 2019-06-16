@@ -1,8 +1,5 @@
-Assunto: [Alunosgrad-each] Comunicado da infraestrutura
-De: infra-each USP <infra-each@usp.br>
-Data: 07/05/2019 19:14
-Para: docentes-each <docentes-each@listas.usp.br>, alunospos-each <alunospos-each@listas.usp.br>, alunosgrad-each <alunosgrad-each@listas.usp.br>, funcionarios-each <funcionarios-each@listas.usp.br>
-Reply-to: alunosgrad-each@listas.usp.br
+[Alunosgrad-each] Comunicado da infraestrutura
+infra-each USP <infra-each@usp.br>
 
 Prezados(as) Professores(as), Alunos(as) e Funcionários(as), 
 

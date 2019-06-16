@@ -1,7 +1,5 @@
-Assunto: Vagas de Desenvolvedor Web (1 de Maio)
-De: "InfoJobs - Vagas" <info@infojobs.com.br>
-Data: 01/05/2019 15:13
-Para: ricardofernandes.8699@usp.br
+Vagas de Desenvolvedor Web (1 de Maio)
+"InfoJobs - Vagas" <info@infojobs.com.br>
 
 A vaga Desenvolvedor Java Sênior acaba de ser publicada
 

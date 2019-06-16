@@ -1,6 +1,5 @@
-Assunto: Notificação por email de submissões das atividades
-De: "Tidia-Ae 4.0"<noreply-tidia-ae@larc.usp.br>
-Data: 14/05/2019 21:08
+Notificação por email de submissões das atividades
+"Tidia-Ae 4.0"<noreply-tidia-ae@larc.usp.br>
 
 Subject: Notificação por email de submissões das atividades
 Título do Site: ACH2025_Turma94_1Sem_2019_ET

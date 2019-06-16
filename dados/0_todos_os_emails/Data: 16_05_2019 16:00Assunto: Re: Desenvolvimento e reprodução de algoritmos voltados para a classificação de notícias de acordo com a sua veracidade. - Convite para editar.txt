@@ -1,7 +1,5 @@
-Assunto: Re: Desenvolvimento e reprodução de algoritmos voltados para a classificação de notícias de acordo com a sua veracidade. - Convite para editar
-De: Luciano Digiampietri <luciano.digiampietri@gmail.com>
-Data: 16/05/2019 16:00
-Para: "Ricardo Augusto Fernan..." <rafernandesjr@usp.br>
+Re: Desenvolvimento e reprodução de algoritmos voltados para a classificação de notícias de acordo com a sua veracidade. - Convite para editar
+Luciano Digiampietri <luciano.digiampietri@gmail.com>
 
 https://ieeexplore.ieee.org/search/searchresult.jsp?newsearch=true&queryText=Stance%20Detection 
 https://dl.acm.org/results.cfm?within=owners.owner%3DHOSTED&srt=_score&query=%22Stance+Detection%22&Go.x=0&Go.y=0

@@ -1,7 +1,5 @@
-Assunto: AWS Unified Registration Cancellation
-De: Amazon Web Services <no-reply-aws@amazon.com>
-Data: 28/04/2019 03:10
-Para: "ricardofernandes.8699@usp.br" <ricardofernandes.8699@usp.br>
+AWS Unified Registration Cancellation
+Amazon Web Services <no-reply-aws@amazon.com>
 
 Greetings from Amazon Web Services,
 
