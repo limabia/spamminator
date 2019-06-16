@@ -16,6 +16,12 @@ from sklearn.model_selection import StratifiedShuffleSplit
 HAM_FILE = '../dados/2_classificacao_ricardo/nao_spam.txt'
 SPAM_FILE = '../dados/2_classificacao_ricardo/spam.txt'
 
+dicionario_postugues = {}
+
+def inicializar_dicionario():
+    for palavra in stopwords.words('portuguese'):
+        dicionario_postugues.update({palavra: True})
+
 def controi_data_frame():
     df = pd.DataFrame(columns=['label', 'texto'])
     f = open(HAM_FILE, 'r')
@@ -55,7 +61,7 @@ def pre_processamento_sem_stopwords(mess):
         else:
             nopunc.append(' ')
     nopunc = ''.join(nopunc)
-    return [remover_acentos(word.lower()) for word in nopunc.split() if word.lower() not in stopwords.words('portuguese')]
+    return [word.lower() for word in nopunc.split() if not dicionario_postugues.get(word.lower())]
 
 def gerar_conjuntos(df):
     sss = StratifiedShuffleSplit(n_splits=1, train_size=0.8, test_size=0.2)
@@ -68,6 +74,7 @@ def gerar_conjuntos(df):
 def main():
     print("Baixando as stopwords")
     nltk.download('stopwords')
+    inicializar_dicionario()
 
     df = controi_data_frame()
 
@@ -77,7 +84,7 @@ def main():
     # separa massa de treino e massa de testes
     #massa_treino, massa_teste, labels_treino, labels_teste = train_test_split(df['texto'], df['label'], test_size=0.2)
 
-    nome_arquivo_saida = 'simulacao_03_removendo_stopword.csv'
+    nome_arquivo_saida = 'simulacao_04_sem_remover_stopword.csv'
 
     if os.path.isfile(nome_arquivo_saida):
         print('[!] O arquivo {} já existe, escolha outro nome'.format(nome_arquivo_saida))
@@ -86,7 +93,7 @@ def main():
         linha_pt1 = ('N_TESTE', 'HAM_precision', 'HAM_recall', 'HAM_f1-score', 'HAM_support')
         linha_pt2 = ('SPAM_precision', 'SPAM_recall', 'SPAM_f1-score', 'SPAM_support')
         linha_pt3 = ('accuracy', 'weighted avg_precision', 'weighted avg_recall', 'weighted avg_f1-score', 'weighted avg_support')
-        linha_pt4 = ('HAM->HAM (HAM classificado como HAM)', 'SPAM->HAM (SPAM classificado como HAM)', 'HAM->SPAM', 'HAM->HAM')
+        linha_pt4 = ('HAM->HAM (HAM classificado como HAM)', 'SPAM->HAM (SPAM classificado como HAM)', 'HAM->SPAM', 'SPAM->SPAM')
         linha = linha_pt1 + linha_pt2 + linha_pt3 +linha_pt4
         with open(nome_arquivo_saida, "w+") as arquivo:
             writer = csv.writer(arquivo)
@@ -95,7 +102,7 @@ def main():
 
     # constroi pipeline
     pipeline = Pipeline([
-        ('bow', CountVectorizer(analyzer=pre_processamento_sem_stopwords)),
+        ('bow', CountVectorizer(analyzer=pre_processamento)),
         # Bag of words - https://en.wikipedia.org/wiki/Bag-of-words_model
         ('tfidf', TfidfTransformer()),  # TF-IDF - https://en.wikipedia.org/wiki/Tf%E2%80%93idf
         ('classifier', MultinomialNB()),  # Naive Bayes - Multinomial
